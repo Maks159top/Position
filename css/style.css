@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+header{
+    margin: auto;
+    min-width: 1500px;
+}
+header .header1{
+    background-color: #af2024 ;
+    height: 40px ;
+    max-width: 100%;
+    text-align: center;
+
+}
+
+section {
+    min-width: 1500px;
+    height: 807px;
+}
+section .img1{
+    background-size: 100%;
+    -webkit-background-size: 100%;
+    min-width: 100%;
+    text-align: center;
+    z-index: 0;
+    position: relative;
+    max-height: 807px;
+
+}
+
+section .img2 {
+    left: 25%;
+    position: absolute;
+    z-index: 1;
+    top: 60px;
+
+
+
+}
+footer .footer1{
+    background-color: black;
+    height: 455px;
+}
+h1 {
+    background-color: #98161b;
+    padding-top: 27px ;
+    padding-bottom: 27px ;
+    padding-left: 16px ;
+    max-width: 710px;
+    font-size: 20px ;
+    color: white;
+}
+.container{
+    position: absolute;
+    z-index: 1;
+    top: 180px;
+    left: 33%;
+}
+.container .bottom_container{
+    background-color: #ffffff;
+    max-width: 710px;
+    padding: 62px 68px 125px 68px;
+}
+.container .bottom_container .video{
+    background-color: #e7e7e7 ;
+    max-width: 570px ;
+    height: 350px;
+}
+.container .bottom_container .video button{
+    border: none;
+    background: none ;
+    position: relative;
+    left: 263px;
+    top: 145px;
+    margin-left: -12px ;
+}
+
+.container .bottom_container .p_bottom p:first-child{
+    margin-top: 30px;
+    color: #98161b;
+
+}
+.container .bottom_container .p_bottom p:last-child{
+    margin-top: 17px;
+    font-size: 12px;
+}
+.container .bottom_container .p_bottom p:first-child data{
+    color: #7d7d7d ;
+
+}
+.background1{
+    background-color: #3f0002;
+    min-height: 32px;
+    max-width: 100%;
+}
+
+.imgg2 .imgg3 .imgg4{
+    height: 0;
+}
+.imgg2 .imgg3 .imgg4 .imgg5 .img_right {
+    background-color: #850409;
+    padding: 9px 18px 7px 17px;
+    position: fixed;
+    right: 0;
+    top: 262px;
+}
+.imgg2 .imgg3 .imgg6 .imgg7 .img_right2{
+   background-color: #98161b;
+    padding: 12px 8px 11px 9px;
+    position: fixed;
+    right: 0;
+    top: 311px;
+}
+.imgg2 .imgg3 .imgg6{
+    height: 0;
+}
